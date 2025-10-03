@@ -938,3 +938,11 @@ This was just the tip of the iceberg with ML and we plan to move forward
 with this data and get a prediction accuracy higher than 80%. We can
 still try hyper parameter testing and regularization methods to increase
 our accuracy.
+
+### References
+
+- Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+- University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+- University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+- V.A. Medical Center, Long Beach and Cleveland Clinic Foundation:Robert
+  Detrano, M.D., Ph.D.
